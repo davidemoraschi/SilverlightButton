@@ -1,0 +1,5 @@
+C:\My Dropbox\SOURCES\SilverlightButton\SilverlightButton.Web\bin\SilverlightButton.Web.dll
+C:\My Dropbox\SOURCES\SilverlightButton\SilverlightButton.Web\bin\SilverlightButton.Web.pdb
+C:\My Dropbox\SOURCES\SilverlightButton\SilverlightButton.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\My Dropbox\SOURCES\SilverlightButton\SilverlightButton.Web\obj\Debug\SilverlightButton.Web.dll
+C:\My Dropbox\SOURCES\SilverlightButton\SilverlightButton.Web\obj\Debug\SilverlightButton.Web.pdb
